@@ -8,6 +8,7 @@
 
 <p style="font-size: 18px; padding: 20px 0px">this is a small starter kit pack graphql apollo server with node js typescript. ORM package it's optional, so I don't include it. <p>
 
+<img src="cover.PNG" />
 ## - First Configuration
 
 ```
