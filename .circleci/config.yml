@@ -7,10 +7,10 @@ jobs:
       - image: cimg/node:16.14
     steps:
       - checkout
-      - yarn install
+      - run: yarn install
   test:
     steps:
-      - yarn run test
+      - run: yarn run test
 
 workflows:
   version: 2
